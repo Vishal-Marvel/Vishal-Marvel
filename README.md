@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishal N</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **Mission O2**
+- 🔭 I’m currently working on **Logistics Platform**
 
-- 🌱 I’m currently learning **Node Js, React Js**
+- 🌱 I’m currently learning **DotNet**
 
 - 👯 I have worked in [E-commerce Platform](https://github.com/Vishal-Marvel/e-commerce.git)
 
